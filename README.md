@@ -211,4 +211,4 @@ HJSplit is offered as a full free version with all features and updates included
 Ready to simplify your file management? [Download HJSplit free now and experience the ease of splitting and merging files!](https://www.softyne.com/hjsplit)
 
 ---
-**Last updated:** 2026-09-16 10:59:35 UTC
+**Last updated:** 2026-09-16 15:23:44 UTC
